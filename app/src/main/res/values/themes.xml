@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.PubbliTv" parent="@style/Theme.Leanback" />
+</resources>
